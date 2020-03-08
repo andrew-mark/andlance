@@ -1,0 +1,5 @@
+@mixin typography-regular() {
+	font-family: $font-family-regular;
+	font-weight: 300;
+	font-style: normal;
+}
